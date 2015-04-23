@@ -1,0 +1,6 @@
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+
+Staging area allows one to choose which files get added to the Git repository 
+rather than just adding everything to the git directory. This allows more
+control over what files are commmitted and when.
