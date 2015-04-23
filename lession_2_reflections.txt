@@ -20,3 +20,8 @@ This is also a good spot for a logical change in direction for a big project.
 How do the diagrams help you visualize the branch structure?
 
 This allows us to see how git makes commits
+
+What is the result of merging two branches together? Why do we represent it in the 
+diagram the way we do?
+
+--
