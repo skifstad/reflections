@@ -4,3 +4,8 @@ What value do you think it offers?
 Staging area allows one to choose which files get added to the Git repository 
 rather than just adding everything to the git directory. This allows more
 control over what files are commmitted and when.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You are able to verify the changes before they get committed. This allows the chance
+to review the files changes to verify only one logical change is happening per commit.
