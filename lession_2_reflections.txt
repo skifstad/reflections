@@ -16,3 +16,7 @@ organized? How would branches help?
 This helps seperate new versions of files that contain major new features or code
 changes that you dont want to affect a working version until that feature works.
 This is also a good spot for a logical change in direction for a big project.
+
+How do the diagrams help you visualize the branch structure?
+
+This allows us to see how git makes commits
