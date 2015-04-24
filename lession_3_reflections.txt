@@ -1,1 +1,5 @@
 Adding new reflection question for lession 3
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+you wouldnt want to publish a non-working version of code if it was public.
